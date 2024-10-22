@@ -1,0 +1,5 @@
+pip install openai
+pip install moviepy
+pip install google-cloud-speech
+pip install --upgrade google-cloud-texttospeech
+pip install ffmpeg-python
